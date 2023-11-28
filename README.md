@@ -11,8 +11,6 @@ Welcome to my repository showcasing a diverse range of data science projects, fo
 
 ## Projects
 
-(List your projects here with a brief description of each. Optionally, include links to the notebooks.)
-
 - **Project 1:** [Predicting Medical Costs using Machine Learning](https://github.com/EfthimiosVlahos/Kaggle-Competitions-Workbooks/tree/main/Medical_Insurance%20Cost_Prediction_Notebook)
 
 
