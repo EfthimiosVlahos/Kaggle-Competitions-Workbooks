@@ -90,59 +90,7 @@ Top 3 models (with default parameters)
 
 
 
-## Run Locally
-Initialize git
-
-```bash
-git init
 ```
-
-
-Clone the project
-
-```bash
-git clone https://github.com/semasuka/Credit-card-approval-prediction-classification.git
-```
-
-enter the project directory
-
-```bash
-cd Credit-card-approval-prediction-classification
-```
-
-Create a conda virtual environment and install all the packages from the environment.yml (recommended)
-
-```bash
-conda env create --prefix <env_name> --file assets/environment.yml
-```
-
-Activate the conda environment
-
-```bash
-conda activate <env_name>
-```
-
-List all the packages installed
-
-```bash
-conda list
-```
-
-Start the streamlit server locally
-
-```bash
-streamlit run cc_approval_pred.py
-```
-If you are having issue with streamlit, please follow [this tutorial on how to set up streamlit](https://docs.streamlit.io/library/get-started/installation)
-
-## Explore the notebook
-
-To explore the notebook file [here]
-
-
-
-```
-
 ├── assets
 │   ├── confusion_matrix.png                      <- confusion matrix image used in the README.
 │   ├── gif_streamlit.gif                         <- gif file used in the README.
