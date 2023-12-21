@@ -8,9 +8,6 @@
   - [Data source](#data-source)
   - [Quick glance at the results](#quick-glance-at-the-results)
   - [Lessons learned and recommendation](#lessons-learned-and-recommendation)
-  - [Limitation and what can be improved](#limitation-and-what-can-be-improved)
-  - [Run Locally](#run-locally)
-  - [Explore the notebook](#explore-the-notebook)
 
 
 
