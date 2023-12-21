@@ -12,7 +12,7 @@ Welcome to my repository showcasing a diverse range of data science projects, fo
 ## Projects
 
 - **Project 1:** [Predicting Medical Costs using Machine Learning](https://github.com/EfthimiosVlahos/Kaggle-Competitions-Workbooks/tree/main/Medical_Insurance%20Cost_Prediction_Notebook)
-- **Project 2:** [Credit Card Approval Prediction](https://github.com/EfthimiosVlahos/Kaggle-Competitions-Workbooks/blob/main/Credit_Card_Competition/Credit_card_approval_prediction.ipynb)
+- **Project 2:** [Credit Card Approval Prediction](https://github.com/EfthimiosVlahos/Kaggle-Competitions-Workbooks/tree/main/Credit_Card_Competition)
 
 
 
